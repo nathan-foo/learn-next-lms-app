@@ -1,6 +1,6 @@
-# Project Academia
+# Learning Management System
 
-The open-source code behind Project Academia.
+The open-source code behind lms-app.
 
 ## Main Contributors
 
