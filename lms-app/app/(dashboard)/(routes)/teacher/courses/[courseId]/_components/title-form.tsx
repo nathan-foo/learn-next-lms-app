@@ -24,7 +24,7 @@ interface TitleFormProps {
         title: string;
     };
     courseId: string;
-}
+};
 
 const formSchema = z.object({
     title: z.string().min(1, {
