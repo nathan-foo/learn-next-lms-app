@@ -1,8 +1,7 @@
 # Learning Management System
 
-The open-source code behind lms-app.
+The open source code behind lms-app.
 
 ## Main Contributors
 
 - Nathan Foo
-- Vishvesh Nathan Thamil Selvan
