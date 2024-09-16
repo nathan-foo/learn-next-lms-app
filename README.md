@@ -1,3 +1,5 @@
+# Learning Management System
+
 ## About the Project
 
 This LMS (Learning Management System) platform is based on a project by https://www.youtube.com/@codewithantonio. Key features include:
@@ -19,4 +21,4 @@ This LMS (Learning Management System) platform is based on a project by https://
 
 ## Programs Used
 
-Next.js, React, Clerk, UploadThing, Mux, Stripe, Prisma, Tailwind, MySQL
+Next.js, React, Clerk, UploadThing, Mux, Stripe, Prisma, Tailwind, and MySQL.
