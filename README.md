@@ -1,5 +1,3 @@
-# Learning Management System
-
 ## About the Project
 
 This LMS (Learning Management System) platform is based on a project by https://www.youtube.com/@codewithantonio. Key features include:
