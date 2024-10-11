@@ -20,3 +20,5 @@ This LMS (Learning Management System) platform is based on a project by https://
 ## Programs Used
 
 Next.js, React, Clerk, UploadThing, Mux, Stripe, Prisma, Tailwind, and MySQL.
+
+Note: This project is a work in progress.
