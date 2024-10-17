@@ -17,7 +17,7 @@ This LMS (Learning Management System) platform is based on a project by https://
 - ORM using Prisma
 - MySQL database using Aiven
 
-## Programs Used
+## Technologies
 
 Next.js, React, Clerk, UploadThing, Mux, Stripe, Prisma, Tailwind, and MySQL.
 
